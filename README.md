@@ -13,7 +13,7 @@
 - **YouTube: [趣味数学ラボ](https://www.youtube.com/@shumi-sugaku-lab)**
   - Manimライブラリを用いた数学解説動画を制作。複雑な概念を視覚的に分かりやすく伝えることに挑戦しています。
 - **Mobile Apps**
-  - Flutterを用いた実用的なアプリ（TextToSpeech, PiyoMath等）の開発と公開。
+  - Flutterを用いた実用的なアプリ（TextToSpeech, MidnightBright等）の開発と公開。
 
 ## 📚 Certifications & Goals
 現在、以下の資格取得とスキルアップに励んでいます：
