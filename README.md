@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Daiki Kaneda
 
 通信制大学でコンピュータサイエンスを学びながら、モバイル・バックエンド開発、そして数学の魅力を発信している学生エンジニアです。
-2026年の卒業に向けて、技術と表現力の両面を磨いています。
 
 ## 🚀 Technical Interests
 - **Frontend:** Next.js, React
