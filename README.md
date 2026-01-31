@@ -4,8 +4,8 @@
 
 ## 🚀 Technical Interests
 - **Frontend:** Next.js, React
-- **Mobile:** Flutter
-- **Backend:** Spring Boot
+- **Mobile:** **Flutter**
+- **Backend:** **Spring Boot**
 - **Infrastructure:** Docker, SQL (Database Design)
 - **Creative:** Adobe Premiere Pro, Manim (Mathematical Animation)
 
