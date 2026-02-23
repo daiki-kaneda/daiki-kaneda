@@ -1,50 +1,35 @@
 # 👋 Hello, I'm Daiki Kaneda
 
-Spring Boot × AWS を中心にバックエンド設計を学習している学生エンジニアです。
-Infrastructure as Code（AWS CDK）やスケーラブルなアーキテクチャ設計について勉強中です。
 
----
 
-## 🛠 Core Stack
+モバイル・バックエンド開発を勉強中の学生エンジニアです。
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-- REST API Design
-- Clean Architecture / DDD
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![AWS CDK](https://img.shields.io/badge/AWS-CDK-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## 🚀 Technical Interests
 
-- Infrastructure as Code
-- Single Table Design (DynamoDB)
-- Serverless Architecture
+- **Mobile:** **Flutter**
 
----
+- **Backend:** **Spring Boot**
 
-## 📱 Additional Experience
+- **Infrastructure:** AWS
 
-- Flutter
-- Next.js (basic)
+- **Frontend:** Next.js, React
 
----
 
-## 📜 Certifications
 
-- ✅ Java SE 11 Gold
-- ✅ Java SE 11 Silver
-- ✅ AWS Solutions Architect – Associate (SAA)
+## 📚 Certifications & Goals
 
----
+以下が取得した資格と取得目標の資格です：
 
-## 🎯 Current Goals
+- ✅ **Java SE 11 Gold** (Certified Professional)
 
-- [ ] AWS Developer – Associate (DVA)
-- [ ] AWS Solutions Architect – Professional (SAP)
+- ✅ **Java SE 11 Silver**
+
+- ✅ **AWS Solutions Architect - Associate (SAA)**
+
+- [ ] AWS Certified Developer – Associate (DVA)
+
+- [ ] AWS Certified Solutions Architect – Professional (SAP)
 
 
