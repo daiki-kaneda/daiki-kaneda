@@ -10,7 +10,9 @@
 - **Creative:** Adobe Premiere Pro, Manim (Mathematical Animation)
 
 ## 📚 Certifications & Goals
-現在、以下の資格取得とスキルアップに励んでいます：
+以下が取得した資格と取得目標の資格です：
 - **Java SE 11 Gold** (Certified Professional)
 - **Java SE 11 Silver**
-- [ ] AWS Solutions Architect - Associate (SAA) - 取得準備中
+- **AWS Solutions Architect - Associate (SAA)**
+- [ ] AWS Certified Developer – Associate (DVA)
+- [ ] AWS Certified Solutions Architect – Professional (SAP)
