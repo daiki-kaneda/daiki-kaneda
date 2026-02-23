@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Daiki Kaneda
 
 Spring Boot × AWS を中心にバックエンド設計を学習している学生エンジニアです。
-Infrastructure as Code（AWS CDK）やスケーラブルなアーキテクチャ設計に強い関心があります。
+Infrastructure as Code（AWS CDK）やスケーラブルなアーキテクチャ設計について勉強中です。
 
 ---
 
