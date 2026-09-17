@@ -23,9 +23,11 @@
 ## 🎨 Portfolios
 - **[WIP] [短~中編小説生成ワークフロー](https://github.com/daiki-kaneda/novel-generator)**
   StepFunctionsを用いた小説生成ワークフロー. 初めは長期コンテキストを維持するのが困難だったが、知識グラフ（TKG)などを取り入れることで解決。また、具体的なプロットを作成することによる不自然な展開を抑えるために、章作成ごとにプランや知識グラフを微調整するDOME方式や大まかなプロットと章作成の直前で作る詳細なプロットの二重アウトラインを導入することで自然な展開にできた。
+  参考文献
+  [Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement](https://aclanthology.org/2025.naacl-long.63/) (Wang et al., NAACL 2025)
 
 - **[WIP] [習慣化・ご褒美管理アプリ (Treat Management)](https://github.com/daiki-kaneda/treat-log)**
-  Flutter × TypeScript × AWS CDK (Lambda, DynamoDB, Cognito) で構築中。楽観的UIやDDD（ドメイン駆動設計）を取り入れた堅牢な状態管理と、インフラのIaC化（コード化）に挑戦しています。
+  Flutter × TypeScript × AWS CDK (Lambda, DynamoDB, Cognito) で構築中。楽観的UIやDDD（ドメイン駆動設計）を取り入れた堅牢な状態管理と、インフラのIaC化（コード化）に挑戦しています。EventBridge Scheduler+SNSでのプッシュ通知の実装やDynamoDBのGSIを工夫した匿名認証も導入しています。
 
 - **[Dota2 Tier List Web App](https://github.com/daiki-kaneda/dota2-tier-list-app)**
-  Flutter Web × Spring Boot × AWSサーバーレスで作った毎日更新するティアリスト
+  Flutter Web × Spring Boot × AWSサーバーレスで作った毎日更新するティアリスト。
