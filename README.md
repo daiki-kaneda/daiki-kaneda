@@ -32,8 +32,9 @@
 - **[Dota2 Tier List Web App](https://github.com/daiki-kaneda/dota2-tier-list-app)**
   Flutter Web × Spring Boot × AWSサーバーレスで作った毎日更新するティアリスト。
 
+## 🌱 More Projects & Learning History 
 <details>
-<summary>🌱 More Projects & Learning History (その他の個人開発、学習リポジトリ)</summary>
+<summary>こちらをクリックしてください</summary>
 
 ### 🍃 Spring Boot (AIコーディング不使用)
 - **[ギャンブル性のあるシンプルなゲームAPI](https://github.com/daiki-kaneda/fizz-buzz-combo)**: ユーザが初めに選ぶルールとランダムに生成される数字によって得点が決まるので、戦略性とギャンブル性があり、面白いと思い、作りました。
@@ -55,6 +56,7 @@
 - **[Flutter Learning Repository](https://github.com/daiki-kaneda/flutter-ui-study)**: FlutterのUIやパッケージの学習、実験的なUIの作成(experimentsディレクトリ配下)などを多く行いました。
 - **[ディクテーションアプリ](https://github.com/daiki-kaneda/dict_app)** かなり時間をかけて作ったディクテーション学習用モバイルアプリ. (AIコーディング不使用)クラウドを本格的に学ぶ前だったので、ユーザーが音声ファイルを選択->STT(Speech to Text) APIで単語ごとの秒数なども分析した結果を取得->それを使ってディクテーション問題を作成という様にしています。UIにこだわったので、いつかAWSなどのクラウドを使って新しいリポジトリで作り直したいと思っています。
 - **[プラットフォーマーゲームアプリ](https://github.com/daiki-kaneda/bit_math)**: FlameというDart,Flutterを使うゲームフレームワークを使用して作ったゲームです。小さなキャラクターを動かして、正解のブロックに頭をぶつける算数学習ゲームです。
+- **[その他公開しているアプリなどはこちら](https://apps.apple.com/jp/developer/daiki-kaneda/id1675602625)**: これらのアプリはAWSなどのクラウドを使わずに作ったものなのであまり機能は多くありません😓 審査の間のやり取りなどは多くの学びがありました。
 
 ### 🧪 Experimental Projects
 以前から作成に興味があったプロジェクトを作っています。(AI Agent使用)
