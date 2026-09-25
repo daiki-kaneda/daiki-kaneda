@@ -19,6 +19,7 @@
 - ✅ **AWS Certified Developer – Associate (DVA)**
 - ✅ **AWS Certified CloudOps Engineer - Associate**
 - ✅ **AWS Certified Solutions Architect – Professional (SAP)**
+- [] AWS Certified DevOps Engineer - Professional 
 
 ## 🎨 Portfolios
 - **[WIP] [短~中編小説生成ワークフロー](https://github.com/daiki-kaneda/novel-generator)**
