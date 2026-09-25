@@ -56,11 +56,15 @@
 - **[Flutter Learning Repository](https://github.com/daiki-kaneda/flutter-ui-study)**: FlutterのUIやパッケージの学習、実験的なUIの作成(experimentsディレクトリ配下)などを多く行いました。
 - **[ディクテーションアプリ](https://github.com/daiki-kaneda/dict_app)** かなり時間をかけて作ったディクテーション学習用モバイルアプリ. (AIコーディング不使用)クラウドを本格的に学ぶ前だったので、ユーザーが音声ファイルを選択->STT(Speech to Text) APIで単語ごとの秒数なども分析した結果を取得->それを使ってディクテーション問題を作成という様にしています。UIにこだわったので、いつかAWSなどのクラウドを使って新しいリポジトリで作り直したいと思っています。
 - **[プラットフォーマーゲームアプリ](https://github.com/daiki-kaneda/bit_math)**: FlameというDart,Flutterを使うゲームフレームワークを使用して作ったゲームです。小さなキャラクターを動かして、正解のブロックに頭をぶつける算数学習ゲームです。
-- **[その他公開しているアプリなどはこちら](https://apps.apple.com/jp/developer/daiki-kaneda/id1675602625)**: これらのアプリはAWSなどのクラウドを使わずに作ったものなのであまり機能は多くありません😓 審査の間のやり取りなどは多くの学びがありました。
+- **[その他公開しているアプリなどはこちら](https://apps.apple.com/jp/developer/daiki-kaneda/id1675602625)**: これらのアプリはAWSなどのクラウドを使わずに作ったものなのであまり機能は多くありません😓 審査の間のやり取りなどは多くの学びがありました。 
 
 ### 🧪 Experimental Projects
 以前から作成に興味があったプロジェクトを作っています。(AI Agent使用)
 - **[論文要約音声作成アプリ](https://github.com/daiki-kaneda/fargate-worker)**: arxivなどの論文のpdfをBedrockのClaudeなどに直接渡して要約->再びBedrockでAmazon Pollyで高品質な音声を作成できるようにSSMLに変換->Pollyで音声化->メールで通知という様にしています。　開発中のコストを最適化するために、FargateはSQS内のメッセージ数が実行中のものも含めて0の時にキャパシティを0にする様にしています。
 - **[Remotionによる動画生成アプリ](https://github.com/daiki-kaneda/video-generation)**: Remotion+Fargateを使用した動画生成アプリ. RemotionはReactベースで動画生成自体にAIを使用しないので、コストを最適化しつつ、様々な動画を作れる様に実験中。
 
+### 📝 Others
+- **[Kerasでの猫画像品種分離モデル訓練](https://colab.research.google.com/drive/1yd_lexqWXJErQFGdv41Snt9l9fLOhyni?usp=sharing)**: 定番の教科書である[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-third-edition)をハンズオンしながら読み終えた後,訓練したモデル。
+- **[数独ソルバー](https://github.com/daiki-kaneda/sudoku_solver)** 自分が中学生の頃Haskellを学んだ時の[教科書](https://people.cs.nott.ac.uk/pszgmh/pih.html)の著者である[Graham HuttonのYoutubeチャンネル](https://www.youtube.com/@haskellhutt)でのHaskellの数独ソルバーをSwiftで書き直してみたもの。
+------------ 🚧 工事中... ------------
 </details>
