@@ -52,6 +52,8 @@
 ### 🧱 Terraform学習（AIコーディング不使用）
 - **[Terraform基礎学習](https://github.com/daiki-kaneda/terraform-basic)**: Lauro Müller先生の[Udemyのコース](https://www.udemy.com/course/mastering-terraform-beginner-to-expert/)を進めて作ったものです。 
   - **[公開練習用のモジュール](https://registry.terraform.io/modules/daiki-kaneda/networking-tf-course/aws/latest)**
+  -  **[Github Actions学習](https://github.com/daiki-kaneda/gh-actions-course/actions)**
+      - **[TerraformによるAWS定番構成の学習とCICD学習](https://github.com/daiki-kaneda/terraform-aws-architectures/tree/main/.github/workflows)**
 
 ### 📱 Flutter Apps & Learning
 
