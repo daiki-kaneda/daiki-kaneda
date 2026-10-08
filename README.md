@@ -5,7 +5,7 @@
 
 - **Mobile:** Flutter (Riverpod)
 - **Backend:** TypeScript (Node.js), Spring Boot, Java
-- **Infrastructure:** AWS (Serverless Architecture, AWS CDK, Fargate)
+- **Infrastructure:** AWS (Serverless Architecture, Terraform, AWS CDK, Fargate)
 - **Frontend:** Next.js, React
 - **Architecture & Practices:** Domain-Driven Design (DDD), CI/CD (GitHub Actions)
 
