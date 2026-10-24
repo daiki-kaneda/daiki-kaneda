@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Daiki Kaneda
-モバイル・バックエンド開発を勉強中の学生エンジニアです。
+滋賀在住のモバイル、バックエンド、インフラエンジニアです。
 
 ## 🚀 Technical Interests & Stack
 
@@ -19,8 +19,8 @@
 - ✅ **AWS Certified Developer – Associate (DVA)**
 - ✅ **AWS Certified CloudOps Engineer - Associate**
 - ✅ **AWS Certified Solutions Architect – Professional (SAP)**
+- ✅ **Terraform Associate (004)**
 - [] AWS Certified DevOps Engineer - Professional 
-- [] Terraform Associate (004)
 
 ## 🎨 Portfolios
 - **[WIP] [短~中編小説生成ワークフロー](https://github.com/daiki-kaneda/novel-generator)**
